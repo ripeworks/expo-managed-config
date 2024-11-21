@@ -21,13 +21,13 @@
     "expo-managed-config",
     "ExpoManagedConfig"
   ],
-  "repository": "https://github.com/tamagokun/expo-managed-config",
+  "repository": "https://github.com/ripeworks/expo-managed-config",
   "bugs": {
-    "url": "https://github.com/tamagokun/expo-managed-config/issues"
+    "url": "https://github.com/ripeworks/expo-managed-config/issues"
   },
   "author": "Mike Kruk <mike@ripeworks.com> (tamagokun)",
   "license": "MIT",
-  "homepage": "https://github.com/tamagokun/expo-managed-config#readme",
+  "homepage": "https://github.com/ripeworks/expo-managed-config#readme",
   "dependencies": {},
   "devDependencies": {
     "@types/react": "~18.3.12",
