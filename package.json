@@ -1,6 +1,6 @@
 {
   "name": "expo-managed-config",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Utilize managed configs",
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -28,11 +28,14 @@
   "author": "Mike Kruk <mike@ripeworks.com> (tamagokun)",
   "license": "MIT",
   "homepage": "https://github.com/ripeworks/expo-managed-config#readme",
-  "dependencies": {},
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  },
   "devDependencies": {
     "@types/react": "~18.3.12",
+    "expo": "~52.0.0",
     "expo-module-scripts": "^4.0.2",
-    "expo": "~48.0.0",
+    "prettier": "^3.4.2",
     "react-native": "0.76.0"
   },
   "peerDependencies": {
